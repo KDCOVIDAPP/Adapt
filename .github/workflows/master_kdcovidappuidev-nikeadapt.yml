@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main1
+      - master
 
 env:
   AZURE_WEBAPP_NAME: kdcovidappuidev-nikeadapt    # set this to your application's name
